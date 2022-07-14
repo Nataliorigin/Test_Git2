@@ -15,4 +15,4 @@
 >git log --graph
 
 Чтобы создать изменение и сразу его закоммитить, мы используем:
-git commit -a -m "massage"
+>git commit -a -m "massage"
